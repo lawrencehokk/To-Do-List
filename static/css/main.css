@@ -1,0 +1,47 @@
+html {
+        background-color: #ededed;
+
+}
+body {
+    margin: 40px;
+    padding: 10px;
+    font-family: sans-serif;
+    background-color: black;
+    box-shadow: 5px 5px 15px 4px #000000;
+    text-shadow: 1px 1px 1px #ffffff;
+    color: white
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+table, td, th {
+    border: 1px solid #aaa;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th {
+    height: 30px;
+}
+
+td {
+    text-align: center;
+    padding: 5px;
+}
+
+.form {
+    margin-top: 20px;
+}
+.options {
+    color: #c0c4fa
+}
+
+#content {
+    width: 70%;
+}
